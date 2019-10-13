@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" infinite="0" backgroundcolor="#000000" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="DungeonCrawl_ProjectUtumnoTileset.png" tilewidth="32" tileheight="32" tilecount="3072" columns="64">
+  <image source="DungeonCrawl_ProjectUtumnoTileset.png" width="2048" height="1536"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1NEOgjAMBVASP9KP5Umf/A6/RE0kIQTae7tu7QYPNyZmbD2sZb5N09xh7t+8/7/Lfy/nSOez65F9zu5A99Xqt74Lz/tAHTXu1LuvWAfjaz0fPTiQPmf2ZerI6mDrOLMD6YPWDsuMjuxA7lPbl61jFIfFws5OTYd0niWswzIDiNHT8ctzk73zenBsLZpD6nXU4d1XtR1sHcz9RTvY+j0dUr1sz0Q7ZuU/1LNd9wDXRjmOLBkcNfplsazTwmHpW9aSweFhaTUf1llA9pMc2ntgv7uow9qHkQ70OebblMEh1WN1eH93L0eMgzlTCrvn3jz06tD6otTB9lQGR0m0nhnBwayp7UDmNIsDmWF0DkZxaGu8Heu0dGiWy9GfA332cuhrPOY8KkxNlnuL9u0ZLfeWxVDq8EyJwRLLd7Z1PuJohwM=
+  </data>
+ </layer>
+ <layer id="2" name="Objects" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztWlEOgzAI7Yd/u/AuoZs3nmYxabSF0j5oJb7EZJlIeUKBsoWgh+8Uwrpdn+n/mcK83V8i2f251Hcroef9wtq/Y52uF4WUzSkOnB40Sv1AQeoPDSDWO3ic+VgCycOLP3ryyEFix8PjilgHAhI9qdxdawcyb/eMCyQPzbzJ2YiOKy0sjI2IumyBIyekgNhfVqBsjH1xZx49kasduX7eMvapd3Y+O3B2I2uLFJprUfscDU0e1vsjFycIvT32OTquvfQ8rftjlJzd+j488eD6MwtY+GMUnyEwav+jBS9cvfjtLmcFbiZeW+dReRc5F6rRiajnGjyk5yLUbEuqIydfOzvs2e9S9yz90QJuTald3PxKC+h+ZlR/lMrEsho8EH2wFY/SeUztulY8UjOD0hlCLEdxLUVLHSydk1HPtvqsRpazRfI72Fk+BUkNQe8PdFxZ+GMkzA44eID0Pz53ij2K20g8Wmwpqdu5vIucr+f0/QBbsNrV
+  </data>
+ </layer>
+</map>
